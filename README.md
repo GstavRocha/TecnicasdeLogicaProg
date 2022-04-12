@@ -1,1 +1,1 @@
-# Tecnicasde Logica Prog
+# Tecnicas de Logica Prog
