@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "name": "tecnicasdelogicaprog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "lista.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon lista.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GstavRocha/TecnicasdeLogicaProg.git"
+  },
+  "author": "Gustavo Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GstavRocha/TecnicasdeLogicaProg/issues"
+  },
+  "homepage": "https://github.com/GstavRocha/TecnicasdeLogicaProg#readme"
+}
