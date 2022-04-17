@@ -1,4 +1,5 @@
 # Important Annotations's 
+refer's: Fácil Aprendizagem Estrutura de Dados e Algoritmos JavaScrip YangHu
 
 1. install nodemon.js for refresh in real time.
 
@@ -12,3 +13,5 @@ Now acess package.json for include
     "devDependencies": {
         "nodemon": " VERSION YOUR NODEMON"
     }
+
+for start'  => npm start
