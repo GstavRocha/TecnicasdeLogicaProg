@@ -15,3 +15,7 @@ Now acess package.json for include
     }
 
 for start'  => npm start
+
+[pt-br= BIBLIOGRAPHY]
+Dia 1: Missão: Pedir o nome e a idade do usuário e escrever essas
+informações de forma amigável.
